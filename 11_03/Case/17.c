@@ -24,4 +24,6 @@ int main() {
             printf("%d учебных задания", n);
             break;    
     }
+
+    return 0;
 }
